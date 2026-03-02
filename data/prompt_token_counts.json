@@ -1,0 +1,1423 @@
+[
+    {
+        "url": "https://en.wikipedia.org/wiki/0",
+        "DeepSeek-R1_prompt_tokens": 1202,
+        "Llama-4-Scout_document-level_prompt_tokens": 1202,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 5967,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 978
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/1",
+        "DeepSeek-R1_prompt_tokens": 794,
+        "Llama-4-Scout_document-level_prompt_tokens": 788,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 3578,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 564
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Aït_Benhaddou",
+        "DeepSeek-R1_prompt_tokens": 489,
+        "Llama-4-Scout_document-level_prompt_tokens": 484,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 1720,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 260
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Abu_Simbel",
+        "DeepSeek-R1_prompt_tokens": 786,
+        "Llama-4-Scout_document-level_prompt_tokens": 786,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 3253,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 562
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Addition",
+        "DeepSeek-R1_prompt_tokens": 973,
+        "Llama-4-Scout_document-level_prompt_tokens": 965,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 10874,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 741
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Ancient_Greek_philosophy",
+        "DeepSeek-R1_prompt_tokens": 1365,
+        "Llama-4-Scout_document-level_prompt_tokens": 1379,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 2829,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 1155
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Ancient_philosophy",
+        "DeepSeek-R1_prompt_tokens": 709,
+        "Llama-4-Scout_document-level_prompt_tokens": 709,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 12824,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 485
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Anthropology",
+        "DeepSeek-R1_prompt_tokens": 1527,
+        "Llama-4-Scout_document-level_prompt_tokens": 1562,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 9973,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 1338
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Architectural_style",
+        "DeepSeek-R1_prompt_tokens": 596,
+        "Llama-4-Scout_document-level_prompt_tokens": 596,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 1044,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 372
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Architectural_theory",
+        "DeepSeek-R1_prompt_tokens": 926,
+        "Llama-4-Scout_document-level_prompt_tokens": 924,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 6923,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 700
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Architecture",
+        "DeepSeek-R1_prompt_tokens": 1127,
+        "Llama-4-Scout_document-level_prompt_tokens": 1126,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 8801,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 902
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Archive",
+        "DeepSeek-R1_prompt_tokens": 1062,
+        "Llama-4-Scout_document-level_prompt_tokens": 1059,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 5285,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 835
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Arctic_Circle",
+        "DeepSeek-R1_prompt_tokens": 374,
+        "Llama-4-Scout_document-level_prompt_tokens": 369,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 1954,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 145
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Area_studies",
+        "DeepSeek-R1_prompt_tokens": 498,
+        "Llama-4-Scout_document-level_prompt_tokens": 494,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 4533,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 270
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Arithmetic",
+        "DeepSeek-R1_prompt_tokens": 1189,
+        "Llama-4-Scout_document-level_prompt_tokens": 1181,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 5177,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 957
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+        "DeepSeek-R1_prompt_tokens": 1958,
+        "Llama-4-Scout_document-level_prompt_tokens": 1945,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 29605,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 1721
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Asta_Nielsen",
+        "DeepSeek-R1_prompt_tokens": 701,
+        "Llama-4-Scout_document-level_prompt_tokens": 693,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 2023,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 469
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Astrobiology",
+        "DeepSeek-R1_prompt_tokens": 1711,
+        "Llama-4-Scout_document-level_prompt_tokens": 1725,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 6022,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 1501
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Astronomy",
+        "DeepSeek-R1_prompt_tokens": 2121,
+        "Llama-4-Scout_document-level_prompt_tokens": 2108,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 14258,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 1884
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Aswan_Dam",
+        "DeepSeek-R1_prompt_tokens": 1225,
+        "Llama-4-Scout_document-level_prompt_tokens": 1227,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 4420,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 1003
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Atlas",
+        "DeepSeek-R1_prompt_tokens": 408,
+        "Llama-4-Scout_document-level_prompt_tokens": 403,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 1057,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 179
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Bantu_peoples",
+        "DeepSeek-R1_prompt_tokens": 617,
+        "Llama-4-Scout_document-level_prompt_tokens": 618,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 2169,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 394
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Basques",
+        "DeepSeek-R1_prompt_tokens": 2332,
+        "Llama-4-Scout_document-level_prompt_tokens": 2367,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 16975,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 2143
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Bibliotheca_Alexandrina",
+        "DeepSeek-R1_prompt_tokens": 662,
+        "Llama-4-Scout_document-level_prompt_tokens": 658,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 3278,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 434
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Biography",
+        "DeepSeek-R1_prompt_tokens": 970,
+        "Llama-4-Scout_document-level_prompt_tokens": 981,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 2834,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 757
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Biological_anthropology",
+        "DeepSeek-R1_prompt_tokens": 639,
+        "Llama-4-Scout_document-level_prompt_tokens": 638,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 1488,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 414
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Biology",
+        "DeepSeek-R1_prompt_tokens": 5038,
+        "Llama-4-Scout_document-level_prompt_tokens": 5100,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 17599,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 4876
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Biotechnology",
+        "DeepSeek-R1_prompt_tokens": 1155,
+        "Llama-4-Scout_document-level_prompt_tokens": 1155,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 7799,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 931
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Border",
+        "DeepSeek-R1_prompt_tokens": 994,
+        "Llama-4-Scout_document-level_prompt_tokens": 986,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 10048,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 762
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Botany",
+        "DeepSeek-R1_prompt_tokens": 2644,
+        "Llama-4-Scout_document-level_prompt_tokens": 2687,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 6732,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 2463
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Bourgeoisie",
+        "DeepSeek-R1_prompt_tokens": 654,
+        "Llama-4-Scout_document-level_prompt_tokens": 659,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 8218,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 435
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Business",
+        "DeepSeek-R1_prompt_tokens": 1057,
+        "Llama-4-Scout_document-level_prompt_tokens": 1051,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 11864,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 827
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Buster_Keaton",
+        "DeepSeek-R1_prompt_tokens": 2141,
+        "Llama-4-Scout_document-level_prompt_tokens": 2134,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 11154,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 1910
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Byzantine_architecture",
+        "DeepSeek-R1_prompt_tokens": 983,
+        "Llama-4-Scout_document-level_prompt_tokens": 986,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 13120,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 762
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Capital_city",
+        "DeepSeek-R1_prompt_tokens": 1262,
+        "Llama-4-Scout_document-level_prompt_tokens": 1245,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 3471,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 1021
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Cardinal_direction",
+        "DeepSeek-R1_prompt_tokens": 951,
+        "Llama-4-Scout_document-level_prompt_tokens": 944,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 3811,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 720
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Castle",
+        "DeepSeek-R1_prompt_tokens": 3650,
+        "Llama-4-Scout_document-level_prompt_tokens": 3713,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 15193,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 3489
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Chichen_Itza",
+        "DeepSeek-R1_prompt_tokens": 2059,
+        "Llama-4-Scout_document-level_prompt_tokens": 2031,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 10019,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 1807
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Chrysler_Building",
+        "DeepSeek-R1_prompt_tokens": 1253,
+        "Llama-4-Scout_document-level_prompt_tokens": 1242,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 5869,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 1018
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Circle_of_latitude",
+        "DeepSeek-R1_prompt_tokens": 816,
+        "Llama-4-Scout_document-level_prompt_tokens": 808,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 3601,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 584
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/City",
+        "DeepSeek-R1_prompt_tokens": 2796,
+        "Llama-4-Scout_document-level_prompt_tokens": 2808,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 13066,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 2584
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Civilization",
+        "DeepSeek-R1_prompt_tokens": 1875,
+        "Llama-4-Scout_document-level_prompt_tokens": 1890,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 8448,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 1666
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Class_(biology)",
+        "DeepSeek-R1_prompt_tokens": 376,
+        "Llama-4-Scout_document-level_prompt_tokens": 371,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 1202,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 147
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Cloning",
+        "DeepSeek-R1_prompt_tokens": 1999,
+        "Llama-4-Scout_document-level_prompt_tokens": 1994,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 11924,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 1770
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Communication",
+        "DeepSeek-R1_prompt_tokens": 1442,
+        "Llama-4-Scout_document-level_prompt_tokens": 1454,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 2839,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 1230
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Community",
+        "DeepSeek-R1_prompt_tokens": 684,
+        "Llama-4-Scout_document-level_prompt_tokens": 676,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 5103,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 452
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Complex_number",
+        "DeepSeek-R1_prompt_tokens": 477,
+        "Llama-4-Scout_document-level_prompt_tokens": 473,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 15180,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 249
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Conjecture",
+        "DeepSeek-R1_prompt_tokens": 842,
+        "Llama-4-Scout_document-level_prompt_tokens": 832,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 3349,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 608
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Contemporary_philosophy",
+        "DeepSeek-R1_prompt_tokens": 651,
+        "Llama-4-Scout_document-level_prompt_tokens": 645,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 1852,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 421
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Contour_line",
+        "DeepSeek-R1_prompt_tokens": 933,
+        "Llama-4-Scout_document-level_prompt_tokens": 922,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 1932,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 698
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Country",
+        "DeepSeek-R1_prompt_tokens": 552,
+        "Llama-4-Scout_document-level_prompt_tokens": 546,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 3165,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 322
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Cultural_anthropology",
+        "DeepSeek-R1_prompt_tokens": 1973,
+        "Llama-4-Scout_document-level_prompt_tokens": 2012,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 3970,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 1788
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Culture",
+        "DeepSeek-R1_prompt_tokens": 1616,
+        "Llama-4-Scout_document-level_prompt_tokens": 1624,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 16738,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 1400
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Demography",
+        "DeepSeek-R1_prompt_tokens": 947,
+        "Llama-4-Scout_document-level_prompt_tokens": 942,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 4984,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 718
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Dependent_territory",
+        "DeepSeek-R1_prompt_tokens": 639,
+        "Llama-4-Scout_document-level_prompt_tokens": 632,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 1560,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 408
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Division_(mathematics)",
+        "DeepSeek-R1_prompt_tokens": 571,
+        "Llama-4-Scout_document-level_prompt_tokens": 564,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 17149,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 340
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Domain_(biology)",
+        "DeepSeek-R1_prompt_tokens": 417,
+        "Llama-4-Scout_document-level_prompt_tokens": 414,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 1747,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 190
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/East",
+        "DeepSeek-R1_prompt_tokens": 361,
+        "Llama-4-Scout_document-level_prompt_tokens": 356,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 885,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 132
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Eastern_philosophy",
+        "DeepSeek-R1_prompt_tokens": 893,
+        "Llama-4-Scout_document-level_prompt_tokens": 892,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 2330,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 668
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Economics",
+        "DeepSeek-R1_prompt_tokens": 2962,
+        "Llama-4-Scout_document-level_prompt_tokens": 2970,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 28284,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 2746
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Emperor",
+        "DeepSeek-R1_prompt_tokens": 1059,
+        "Llama-4-Scout_document-level_prompt_tokens": 1066,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 3766,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 842
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Engineering",
+        "DeepSeek-R1_prompt_tokens": 1494,
+        "Llama-4-Scout_document-level_prompt_tokens": 1490,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 3562,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 1266
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Equation",
+        "DeepSeek-R1_prompt_tokens": 833,
+        "Llama-4-Scout_document-level_prompt_tokens": 822,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 21101,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 598
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Equation_solving",
+        "DeepSeek-R1_prompt_tokens": 466,
+        "Llama-4-Scout_document-level_prompt_tokens": 461,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 20378,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 237
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Estates_of_the_realm",
+        "DeepSeek-R1_prompt_tokens": 1578,
+        "Llama-4-Scout_document-level_prompt_tokens": 1570,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 6273,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 1346
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Ethnic_group",
+        "DeepSeek-R1_prompt_tokens": 1921,
+        "Llama-4-Scout_document-level_prompt_tokens": 1930,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 8887,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 1706
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Ethnography",
+        "DeepSeek-R1_prompt_tokens": 1244,
+        "Llama-4-Scout_document-level_prompt_tokens": 1253,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 3930,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 1029
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Ethnology",
+        "DeepSeek-R1_prompt_tokens": 532,
+        "Llama-4-Scout_document-level_prompt_tokens": 530,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 4252,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 306
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Euclidean_algorithm",
+        "DeepSeek-R1_prompt_tokens": 1371,
+        "Llama-4-Scout_document-level_prompt_tokens": 1350,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 8106,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 1126
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Evolution",
+        "DeepSeek-R1_prompt_tokens": 3387,
+        "Llama-4-Scout_document-level_prompt_tokens": 3414,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 20018,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 3190
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Experiment",
+        "DeepSeek-R1_prompt_tokens": 1335,
+        "Llama-4-Scout_document-level_prompt_tokens": 1334,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 6565,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 1110
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Exploration",
+        "DeepSeek-R1_prompt_tokens": 608,
+        "Llama-4-Scout_document-level_prompt_tokens": 606,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 5549,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 382
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Exponential_function",
+        "DeepSeek-R1_prompt_tokens": 392,
+        "Llama-4-Scout_document-level_prompt_tokens": 387,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 3964,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 163
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Exponentiation",
+        "DeepSeek-R1_prompt_tokens": 536,
+        "Llama-4-Scout_document-level_prompt_tokens": 525,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 1531,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 301
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Extinction_(astronomy)",
+        "DeepSeek-R1_prompt_tokens": 744,
+        "Llama-4-Scout_document-level_prompt_tokens": 737,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 2495,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 513
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Extraterrestrial_life",
+        "DeepSeek-R1_prompt_tokens": 1578,
+        "Llama-4-Scout_document-level_prompt_tokens": 1575,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 11902,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 1351
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Factorial",
+        "DeepSeek-R1_prompt_tokens": 414,
+        "Llama-4-Scout_document-level_prompt_tokens": 409,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 4887,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 185
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Family_(biology)",
+        "DeepSeek-R1_prompt_tokens": 371,
+        "Llama-4-Scout_document-level_prompt_tokens": 365,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 1224,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 141
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Festival",
+        "DeepSeek-R1_prompt_tokens": 783,
+        "Llama-4-Scout_document-level_prompt_tokens": 790,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 9195,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 566
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Formula",
+        "DeepSeek-R1_prompt_tokens": 524,
+        "Llama-4-Scout_document-level_prompt_tokens": 517,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 1705,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 293
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Fraction",
+        "DeepSeek-R1_prompt_tokens": 548,
+        "Llama-4-Scout_document-level_prompt_tokens": 546,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 7213,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 322
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Fred_Astaire",
+        "DeepSeek-R1_prompt_tokens": 2113,
+        "Llama-4-Scout_document-level_prompt_tokens": 2099,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 7157,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 1875
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Function_(mathematics)",
+        "DeepSeek-R1_prompt_tokens": 699,
+        "Llama-4-Scout_document-level_prompt_tokens": 692,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 4468,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 468
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Function_composition",
+        "DeepSeek-R1_prompt_tokens": 397,
+        "Llama-4-Scout_document-level_prompt_tokens": 389,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 3203,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 165
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Gamma_function",
+        "DeepSeek-R1_prompt_tokens": 611,
+        "Llama-4-Scout_document-level_prompt_tokens": 605,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 7941,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 381
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Genetic_engineering",
+        "DeepSeek-R1_prompt_tokens": 1863,
+        "Llama-4-Scout_document-level_prompt_tokens": 1874,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 8111,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 1650
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Genetically_modified_organism",
+        "DeepSeek-R1_prompt_tokens": 3742,
+        "Llama-4-Scout_document-level_prompt_tokens": 3801,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 29657,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 3577
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Genetics",
+        "DeepSeek-R1_prompt_tokens": 1540,
+        "Llama-4-Scout_document-level_prompt_tokens": 1540,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 10331,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 1316
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Genus",
+        "DeepSeek-R1_prompt_tokens": 667,
+        "Llama-4-Scout_document-level_prompt_tokens": 663,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 2674,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 439
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Geodetic_datum",
+        "DeepSeek-R1_prompt_tokens": 891,
+        "Llama-4-Scout_document-level_prompt_tokens": 879,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 3200,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 655
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Geographic_coordinate_system",
+        "DeepSeek-R1_prompt_tokens": 594,
+        "Llama-4-Scout_document-level_prompt_tokens": 586,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 2809,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 362
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Geography",
+        "DeepSeek-R1_prompt_tokens": 1146,
+        "Llama-4-Scout_document-level_prompt_tokens": 1147,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 11078,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 923
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Geoid",
+        "DeepSeek-R1_prompt_tokens": 712,
+        "Llama-4-Scout_document-level_prompt_tokens": 697,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 2690,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 473
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Germanic_peoples",
+        "DeepSeek-R1_prompt_tokens": 1467,
+        "Llama-4-Scout_document-level_prompt_tokens": 1507,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 14990,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 1283
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Globe",
+        "DeepSeek-R1_prompt_tokens": 671,
+        "Llama-4-Scout_document-level_prompt_tokens": 668,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 4907,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 444
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Gloria_Swanson",
+        "DeepSeek-R1_prompt_tokens": 1591,
+        "Llama-4-Scout_document-level_prompt_tokens": 1591,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 4706,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 1367
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Gothic_architecture",
+        "DeepSeek-R1_prompt_tokens": 4423,
+        "Llama-4-Scout_document-level_prompt_tokens": 4442,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 47769,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 4218
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Great_Mosque_of_Djenné",
+        "DeepSeek-R1_prompt_tokens": 1021,
+        "Llama-4-Scout_document-level_prompt_tokens": 1018,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 4149,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 794
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Great_Sphinx_of_Giza",
+        "DeepSeek-R1_prompt_tokens": 889,
+        "Llama-4-Scout_document-level_prompt_tokens": 878,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 6940,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 654
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Great_Zimbabwe",
+        "DeepSeek-R1_prompt_tokens": 1112,
+        "Llama-4-Scout_document-level_prompt_tokens": 1116,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 4260,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 892
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Great_circle",
+        "DeepSeek-R1_prompt_tokens": 485,
+        "Llama-4-Scout_document-level_prompt_tokens": 478,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 1459,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 254
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Group_cohesiveness",
+        "DeepSeek-R1_prompt_tokens": 1048,
+        "Llama-4-Scout_document-level_prompt_tokens": 1044,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 4001,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 820
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Harold_Lloyd",
+        "DeepSeek-R1_prompt_tokens": 1347,
+        "Llama-4-Scout_document-level_prompt_tokens": 1347,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 4266,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 1123
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Hilbert's_problems",
+        "DeepSeek-R1_prompt_tokens": 815,
+        "Llama-4-Scout_document-level_prompt_tokens": 798,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 4028,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 574
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/History",
+        "DeepSeek-R1_prompt_tokens": 1875,
+        "Llama-4-Scout_document-level_prompt_tokens": 1890,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 13875,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 1666
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/History_of_Earth",
+        "DeepSeek-R1_prompt_tokens": 3215,
+        "Llama-4-Scout_document-level_prompt_tokens": 3219,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 31402,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 2995
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Holiday",
+        "DeepSeek-R1_prompt_tokens": 573,
+        "Llama-4-Scout_document-level_prompt_tokens": 572,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 5253,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 348
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Human_history",
+        "DeepSeek-R1_prompt_tokens": 3241,
+        "Llama-4-Scout_document-level_prompt_tokens": 3286,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 16198,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 3062
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Humanities",
+        "DeepSeek-R1_prompt_tokens": 1355,
+        "Llama-4-Scout_document-level_prompt_tokens": 1365,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 3919,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 1141
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Humphrey_Bogart",
+        "DeepSeek-R1_prompt_tokens": 2766,
+        "Llama-4-Scout_document-level_prompt_tokens": 2762,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 8647,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 2538
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Imaginary_number",
+        "DeepSeek-R1_prompt_tokens": 379,
+        "Llama-4-Scout_document-level_prompt_tokens": 374,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 1274,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 150
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Indigenous_peoples",
+        "DeepSeek-R1_prompt_tokens": 2573,
+        "Llama-4-Scout_document-level_prompt_tokens": 2586,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 9118,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 2362
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Information",
+        "DeepSeek-R1_prompt_tokens": 912,
+        "Llama-4-Scout_document-level_prompt_tokens": 902,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 6293,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 678
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Information_science",
+        "DeepSeek-R1_prompt_tokens": 1068,
+        "Llama-4-Scout_document-level_prompt_tokens": 1060,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 4090,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 836
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Integer",
+        "DeepSeek-R1_prompt_tokens": 404,
+        "Llama-4-Scout_document-level_prompt_tokens": 400,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 4023,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 176
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Irrational_number",
+        "DeepSeek-R1_prompt_tokens": 993,
+        "Llama-4-Scout_document-level_prompt_tokens": 986,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 17294,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 762
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/James_Cagney",
+        "DeepSeek-R1_prompt_tokens": 1142,
+        "Llama-4-Scout_document-level_prompt_tokens": 1141,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 6829,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 917
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Karnak",
+        "DeepSeek-R1_prompt_tokens": 969,
+        "Llama-4-Scout_document-level_prompt_tokens": 974,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 3437,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 750
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Kingdom_(biology)",
+        "DeepSeek-R1_prompt_tokens": 870,
+        "Llama-4-Scout_document-level_prompt_tokens": 882,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 7579,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 658
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Laboratory",
+        "DeepSeek-R1_prompt_tokens": 861,
+        "Llama-4-Scout_document-level_prompt_tokens": 858,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 5020,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 634
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Lalibela",
+        "DeepSeek-R1_prompt_tokens": 569,
+        "Llama-4-Scout_document-level_prompt_tokens": 562,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 3749,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 338
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Landscape_architecture",
+        "DeepSeek-R1_prompt_tokens": 853,
+        "Llama-4-Scout_document-level_prompt_tokens": 845,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 4887,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 621
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Latitude",
+        "DeepSeek-R1_prompt_tokens": 713,
+        "Llama-4-Scout_document-level_prompt_tokens": 693,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 2540,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 469
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Lillian_Gish",
+        "DeepSeek-R1_prompt_tokens": 1187,
+        "Llama-4-Scout_document-level_prompt_tokens": 1180,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 6667,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 956
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Linguistic_anthropology",
+        "DeepSeek-R1_prompt_tokens": 610,
+        "Llama-4-Scout_document-level_prompt_tokens": 611,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 4368,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 387
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Logarithm",
+        "DeepSeek-R1_prompt_tokens": 791,
+        "Llama-4-Scout_document-level_prompt_tokens": 783,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 7172,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 559
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Longitude",
+        "DeepSeek-R1_prompt_tokens": 986,
+        "Llama-4-Scout_document-level_prompt_tokens": 980,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 3231,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 756
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Luxor_Temple",
+        "DeepSeek-R1_prompt_tokens": 540,
+        "Llama-4-Scout_document-level_prompt_tokens": 539,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 4265,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 315
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Magnitude_(astronomy)",
+        "DeepSeek-R1_prompt_tokens": 569,
+        "Llama-4-Scout_document-level_prompt_tokens": 562,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 4435,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 338
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Mandate_of_Heaven",
+        "DeepSeek-R1_prompt_tokens": 1175,
+        "Llama-4-Scout_document-level_prompt_tokens": 1178,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 4702,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 954
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Map_projection",
+        "DeepSeek-R1_prompt_tokens": 1121,
+        "Llama-4-Scout_document-level_prompt_tokens": 1100,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 5143,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 876
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Marlon_Brando",
+        "DeepSeek-R1_prompt_tokens": 4294,
+        "Llama-4-Scout_document-level_prompt_tokens": 4301,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 18111,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 4077
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Mary_Pickford",
+        "DeepSeek-R1_prompt_tokens": 1915,
+        "Llama-4-Scout_document-level_prompt_tokens": 1917,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 9744,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 1693
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Mathematical_constant",
+        "DeepSeek-R1_prompt_tokens": 495,
+        "Llama-4-Scout_document-level_prompt_tokens": 490,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 1118,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 266
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Mathematician",
+        "DeepSeek-R1_prompt_tokens": 703,
+        "Llama-4-Scout_document-level_prompt_tokens": 701,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 3225,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 477
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Mathematics",
+        "DeepSeek-R1_prompt_tokens": 1646,
+        "Llama-4-Scout_document-level_prompt_tokens": 1631,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 13775,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 1407
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Media_studies",
+        "DeepSeek-R1_prompt_tokens": 1180,
+        "Llama-4-Scout_document-level_prompt_tokens": 1170,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 4927,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 946
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Medieval_philosophy",
+        "DeepSeek-R1_prompt_tokens": 963,
+        "Llama-4-Scout_document-level_prompt_tokens": 971,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 11539,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 747
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Mercator_projection",
+        "DeepSeek-R1_prompt_tokens": 1206,
+        "Llama-4-Scout_document-level_prompt_tokens": 1196,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 5336,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 972
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Modern_philosophy",
+        "DeepSeek-R1_prompt_tokens": 733,
+        "Llama-4-Scout_document-level_prompt_tokens": 739,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 2777,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 515
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Modular_arithmetic",
+        "DeepSeek-R1_prompt_tokens": 503,
+        "Llama-4-Scout_document-level_prompt_tokens": 497,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 13310,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 273
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Multiplication",
+        "DeepSeek-R1_prompt_tokens": 627,
+        "Llama-4-Scout_document-level_prompt_tokens": 619,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 6963,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 395
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Nanotechnology",
+        "DeepSeek-R1_prompt_tokens": 1931,
+        "Llama-4-Scout_document-level_prompt_tokens": 1944,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 14491,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 1720
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Natural_number",
+        "DeepSeek-R1_prompt_tokens": 419,
+        "Llama-4-Scout_document-level_prompt_tokens": 413,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 7209,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 189
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Natural_selection",
+        "DeepSeek-R1_prompt_tokens": 1859,
+        "Llama-4-Scout_document-level_prompt_tokens": 1863,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 13612,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 1639
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Nature",
+        "DeepSeek-R1_prompt_tokens": 1873,
+        "Llama-4-Scout_document-level_prompt_tokens": 1874,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 8963,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 1650
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/North",
+        "DeepSeek-R1_prompt_tokens": 480,
+        "Llama-4-Scout_document-level_prompt_tokens": 477,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 1625,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 253
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Nuclear_technology",
+        "DeepSeek-R1_prompt_tokens": 1444,
+        "Llama-4-Scout_document-level_prompt_tokens": 1440,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 7694,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 1216
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Number",
+        "DeepSeek-R1_prompt_tokens": 1643,
+        "Llama-4-Scout_document-level_prompt_tokens": 1633,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 6369,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 1409
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Numerical_digit",
+        "DeepSeek-R1_prompt_tokens": 877,
+        "Llama-4-Scout_document-level_prompt_tokens": 868,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 5266,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 644
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Observation",
+        "DeepSeek-R1_prompt_tokens": 683,
+        "Llama-4-Scout_document-level_prompt_tokens": 678,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 2893,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 454
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Open_society",
+        "DeepSeek-R1_prompt_tokens": 509,
+        "Llama-4-Scout_document-level_prompt_tokens": 506,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 1688,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 282
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Order_(biology)",
+        "DeepSeek-R1_prompt_tokens": 377,
+        "Llama-4-Scout_document-level_prompt_tokens": 371,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 1527,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 147
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/People",
+        "DeepSeek-R1_prompt_tokens": 381,
+        "Llama-4-Scout_document-level_prompt_tokens": 375,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 2819,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 151
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Percentage",
+        "DeepSeek-R1_prompt_tokens": 601,
+        "Llama-4-Scout_document-level_prompt_tokens": 594,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 7226,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 370
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Philosophy",
+        "DeepSeek-R1_prompt_tokens": 1630,
+        "Llama-4-Scout_document-level_prompt_tokens": 1641,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 23383,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 1417
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Philosophy_of_language",
+        "DeepSeek-R1_prompt_tokens": 2378,
+        "Llama-4-Scout_document-level_prompt_tokens": 2396,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 8798,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 2172
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Philosophy_of_mathematics",
+        "DeepSeek-R1_prompt_tokens": 2261,
+        "Llama-4-Scout_document-level_prompt_tokens": 2255,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 8208,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 2031
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Philosophy_of_mind",
+        "DeepSeek-R1_prompt_tokens": 2453,
+        "Llama-4-Scout_document-level_prompt_tokens": 2477,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 24077,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 2253
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Phylum",
+        "DeepSeek-R1_prompt_tokens": 570,
+        "Llama-4-Scout_document-level_prompt_tokens": 573,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 3559,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 349
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Pi",
+        "DeepSeek-R1_prompt_tokens": 549,
+        "Llama-4-Scout_document-level_prompt_tokens": 546,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 24569,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 322
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Political_philosophy",
+        "DeepSeek-R1_prompt_tokens": 2328,
+        "Llama-4-Scout_document-level_prompt_tokens": 2360,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 5331,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 2136
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Polynomial",
+        "DeepSeek-R1_prompt_tokens": 1001,
+        "Llama-4-Scout_document-level_prompt_tokens": 985,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 6422,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 761
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Pre-Socratic_philosophy",
+        "DeepSeek-R1_prompt_tokens": 2942,
+        "Llama-4-Scout_document-level_prompt_tokens": 2963,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 10278,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 2739
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Quadratic_equation",
+        "DeepSeek-R1_prompt_tokens": 599,
+        "Llama-4-Scout_document-level_prompt_tokens": 592,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 17167,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 368
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Race_(human_categorization)",
+        "DeepSeek-R1_prompt_tokens": 2696,
+        "Llama-4-Scout_document-level_prompt_tokens": 2721,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 19634,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 2497
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Reference_ellipsoid",
+        "DeepSeek-R1_prompt_tokens": 413,
+        "Llama-4-Scout_document-level_prompt_tokens": 405,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 3084,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 181
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Regulatory_college",
+        "DeepSeek-R1_prompt_tokens": 387,
+        "Llama-4-Scout_document-level_prompt_tokens": 381,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 2099,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 157
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Renaissance_philosophy",
+        "DeepSeek-R1_prompt_tokens": 945,
+        "Llama-4-Scout_document-level_prompt_tokens": 953,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 2674,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 729
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Research",
+        "DeepSeek-R1_prompt_tokens": 1349,
+        "Llama-4-Scout_document-level_prompt_tokens": 1346,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 11109,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 1122
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Rural_area",
+        "DeepSeek-R1_prompt_tokens": 645,
+        "Llama-4-Scout_document-level_prompt_tokens": 640,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 7674,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 416
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Sacral_architecture",
+        "DeepSeek-R1_prompt_tokens": 995,
+        "Llama-4-Scout_document-level_prompt_tokens": 991,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 2372,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 767
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Saint_Catherine's_Monastery",
+        "DeepSeek-R1_prompt_tokens": 781,
+        "Llama-4-Scout_document-level_prompt_tokens": 786,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 5379,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 562
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/San_people",
+        "DeepSeek-R1_prompt_tokens": 1133,
+        "Llama-4-Scout_document-level_prompt_tokens": 1133,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 4827,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 909
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Scale_(map)",
+        "DeepSeek-R1_prompt_tokens": 803,
+        "Llama-4-Scout_document-level_prompt_tokens": 796,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 2556,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 572
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Science",
+        "DeepSeek-R1_prompt_tokens": 2935,
+        "Llama-4-Scout_document-level_prompt_tokens": 2952,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 36660,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 2728
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Scientific_method",
+        "DeepSeek-R1_prompt_tokens": 2405,
+        "Llama-4-Scout_document-level_prompt_tokens": 2404,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 13209,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 2180
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Scientific_theory",
+        "DeepSeek-R1_prompt_tokens": 1777,
+        "Llama-4-Scout_document-level_prompt_tokens": 1770,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 5119,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 1546
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Scientist",
+        "DeepSeek-R1_prompt_tokens": 675,
+        "Llama-4-Scout_document-level_prompt_tokens": 672,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 2783,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 448
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Series_(mathematics)",
+        "DeepSeek-R1_prompt_tokens": 685,
+        "Llama-4-Scout_document-level_prompt_tokens": 680,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 11973,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 456
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Social_actions",
+        "DeepSeek-R1_prompt_tokens": 734,
+        "Llama-4-Scout_document-level_prompt_tokens": 729,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 3553,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 505
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Social_anthropology",
+        "DeepSeek-R1_prompt_tokens": 857,
+        "Llama-4-Scout_document-level_prompt_tokens": 855,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 1983,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 631
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Social_capital",
+        "DeepSeek-R1_prompt_tokens": 2563,
+        "Llama-4-Scout_document-level_prompt_tokens": 2563,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 9737,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 2339
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Social_formation",
+        "DeepSeek-R1_prompt_tokens": 392,
+        "Llama-4-Scout_document-level_prompt_tokens": 389,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 5531,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 165
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Social_philosophy",
+        "DeepSeek-R1_prompt_tokens": 370,
+        "Llama-4-Scout_document-level_prompt_tokens": 365,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 1070,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 141
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Social_structure",
+        "DeepSeek-R1_prompt_tokens": 709,
+        "Llama-4-Scout_document-level_prompt_tokens": 704,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 1270,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 480
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Society",
+        "DeepSeek-R1_prompt_tokens": 1097,
+        "Llama-4-Scout_document-level_prompt_tokens": 1096,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 3768,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 872
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Sociobiology",
+        "DeepSeek-R1_prompt_tokens": 899,
+        "Llama-4-Scout_document-level_prompt_tokens": 898,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 8352,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 674
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Solidarity",
+        "DeepSeek-R1_prompt_tokens": 525,
+        "Llama-4-Scout_document-level_prompt_tokens": 525,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 3691,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 301
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/South",
+        "DeepSeek-R1_prompt_tokens": 410,
+        "Llama-4-Scout_document-level_prompt_tokens": 404,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 1044,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 180
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Species",
+        "DeepSeek-R1_prompt_tokens": 1126,
+        "Llama-4-Scout_document-level_prompt_tokens": 1125,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 8385,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 901
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Square_root",
+        "DeepSeek-R1_prompt_tokens": 459,
+        "Llama-4-Scout_document-level_prompt_tokens": 453,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 5717,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 229
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Subtraction",
+        "DeepSeek-R1_prompt_tokens": 591,
+        "Llama-4-Scout_document-level_prompt_tokens": 584,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 3255,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 360
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Suburb",
+        "DeepSeek-R1_prompt_tokens": 1825,
+        "Llama-4-Scout_document-level_prompt_tokens": 1821,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 14621,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 1597
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/System_of_linear_equations",
+        "DeepSeek-R1_prompt_tokens": 572,
+        "Llama-4-Scout_document-level_prompt_tokens": 564,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 8452,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 340
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Systematics",
+        "DeepSeek-R1_prompt_tokens": 543,
+        "Llama-4-Scout_document-level_prompt_tokens": 538,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 1908,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 314
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Technology",
+        "DeepSeek-R1_prompt_tokens": 1877,
+        "Llama-4-Scout_document-level_prompt_tokens": 1886,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 8050,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 1662
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Temple_of_Edfu",
+        "DeepSeek-R1_prompt_tokens": 490,
+        "Llama-4-Scout_document-level_prompt_tokens": 490,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 2325,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 266
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/The_arts",
+        "DeepSeek-R1_prompt_tokens": 1017,
+        "Llama-4-Scout_document-level_prompt_tokens": 1012,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 8199,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 788
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Transhumanism",
+        "DeepSeek-R1_prompt_tokens": 1268,
+        "Llama-4-Scout_document-level_prompt_tokens": 1273,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 20133,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 1049
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Village",
+        "DeepSeek-R1_prompt_tokens": 1535,
+        "Llama-4-Scout_document-level_prompt_tokens": 1520,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 4207,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 1296
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/West",
+        "DeepSeek-R1_prompt_tokens": 465,
+        "Llama-4-Scout_document-level_prompt_tokens": 458,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 1104,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 234
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Zoology",
+        "DeepSeek-R1_prompt_tokens": 968,
+        "Llama-4-Scout_document-level_prompt_tokens": 973,
+        "Llama-4-Scout_document-level_Wikipedia_prompt_tokens": 14571,
+        "Llama-4-Scout_document-level_no-instruction_prompt_tokens": 749
+    }
+]
