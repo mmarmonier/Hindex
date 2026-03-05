@@ -1,4 +1,4 @@
-[![arXiv](https://img.shields.io/badge/arXiv-2508.10175-b31b1b.svg)](https://arxiv.org/abs/2508.10175)
+[![arXiv](https://img.shields.io/badge/arXiv-2603.04083-b31b1b.svg)](http://arxiv.org/abs/2603.04083)
 [![LREC 2026](https://img.shields.io/badge/LREC-2026-blue.svg)](https://lrec-coling-2026.org/)
 
 
@@ -32,8 +32,7 @@ This repository lets you **reproduce the results from the paper**:
 
 You can run the notebook on **Google Colab**:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/USERNAME/Hindex/blob/main/Hindex.ipynb](https://colab.research.google.com/github/mmarmonier/Hindex/blob/main/Hindex_notebook.ipynb))
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mmarmonier/Hindex/blob/main/Hindex_notebook.ipynb)
 ---
 
 ## 📜 Citations
