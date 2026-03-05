@@ -32,7 +32,7 @@ This repository lets you **reproduce the results from the paper**:
 
 You can run the notebook on **Google Colab**:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mmarmonier/Hindex/blob/main/Hindex_notebook.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mmarmonier/Hindex/blob/main/Hindex_Notebook.ipynb)
 ---
 
 ## 📜 Citations
