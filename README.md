@@ -1,5 +1,5 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2603.04083-b31b1b.svg)](http://arxiv.org/abs/2603.04083)
-[![LREC 2026](https://img.shields.io/badge/LREC-2026-blue.svg)](https://lrec-coling-2026.org/)
+[![LREC 2026](https://img.shields.io/badge/LREC-2026-blue.svg)](https://lrec.elra.info/lrec2026-main-688)
 
 
 
@@ -38,7 +38,19 @@ You can run the notebook on **Google Colab**:
 ## 📜 Citations
 If you use this code or dataset, please cite:
 ```
-LREC reference TBA.
+@inproceedings{marmonier-etal-2026-hindsight,
+  title = {Hindsight Quality Prediction Experiments in Multi-Candidate Human-Post-Edited Machine Translation},
+  author = {Marmonier, Malik and Sagot, Benoît and Bawden, Rachel},
+  booktitle = {Proceedings of the Fifteenth Language Resources and Evaluation Conference (LREC 2026)},
+  month = {May},
+  year = {2026},
+  pages = {8740--8755},
+  address = {Palma, Mallorca, Spain},
+  publisher = {European Language Resources Association (ELRA)},
+  editor = {Piperidis, Stelios and Bel, Núria and van den Heuvel, Henk and Ide, Nancy and Krek, Simon and Toral, Antonio},
+  doi = {10.63317/24puen8nstzh},
+  abstract = {This paper investigates two complementary paradigms for predicting machine translation quality: source-side difficulty prediction and candidate-side quality estimation (QE). The rapid adoption of Large Language Models (LLMs) into machine translation (MT) workflows is reshaping the research landscape, yet its impact on established quality prediction paradigms remains underexplored. We study this issue through a series of "hindsight" experiments on a unique, multi-candidate dataset resulting from a genuine machine translation post-editing (MTPE) project. The dataset consists of over 6,000 English source segments with nine translation hypotheses from a diverse set of traditional neural MT systems and advanced LLMs, all evaluated against a single, final human post-edited reference. Using Kendall’s rank correlation, we assess the predictive power of source-side difficulty metrics, candidate-side QE models and position heuristics against two gold-standard scores: TER (as a proxy for post-editing effort) and COMET (as a proxy for human judgment). Our analysis yields three primary findings: (1) On the source side, the predictive power of difficulty metrics is highly contingent on the reference metric used; features that strongly correlate with COMET (e.g., segment length, neural predictors) show much weaker correlation to TER. (2) On the candidate side, we find a significant mismatch between QE model rankings and final human-adjudicated quality, and further show that modern QE metrics are significantly more aligned with the quality of traditional neural MT outputs than with those from general-purpose LLMs. (3) While we confirm a statistically significant positional bias in document-level LLMs (i.e., the tendency for translation quality to degrade for segments occurring later in a document) its practical impact on translation quality appears to be negligible. These findings highlight that the architectural shift towards LLMs alters the reliability of established quality prediction methods while simultaneously mitigating previous challenges in document-level translation.}
+}
 ```
 and:
 ```
